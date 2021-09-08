@@ -1,2 +1,2 @@
 # nimbler
-nimbostratus rewrite for Python3
+[nimbostratus](https://github.com/andresriancho/nimbostratus) rewrite for Python3
